@@ -10,6 +10,7 @@ This project automates the submission of a Google Form using Selenium and sends 
 2. Django
 3. Selenium
 4. ChromeDriver
+5. Front End
 
 ## Installation
 
